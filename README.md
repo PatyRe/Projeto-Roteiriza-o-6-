@@ -3,7 +3,7 @@ Em desenvolvimento
 # Gigalog Consultoria
 ![Captura de tela 2023-04-05 111953](https://user-images.githubusercontent.com/128760874/231186365-5281e35b-86e7-443b-8e05-a67aecf7fc8e.png)
 # Integrantes:
-![image](https://user-images.githubusercontent.com/128760874/231191514-851f08c2-16eb-40fa-9df9-665602665812.png)
+![image](https://user-images.githubusercontent.com/128760874/231226070-50387781-39bf-4e9f-a5a7-0c20f392c373.png)
 ## Índice
 - Captação de dados (arquivo CSV)
 - Análise qualitativa de dados referente: Fábrica, Clientes, Cidades, Incoterms, Frete e Produtos.
