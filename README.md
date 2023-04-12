@@ -7,6 +7,7 @@ Em desenvolvimento
 ## Índice
 - Introdução Sprinter 1
 - Objetivo
+- Metodologia
 - Captação de dados (arquivo CSV)
 - Análise qualitativa de dados referente: Fábrica, Clientes, Cidades, Incoterms, Frete e Produtos.
 - Quantidade de produtos transportados: Mês e Ano.
