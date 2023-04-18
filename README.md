@@ -25,9 +25,11 @@ Empresa com 51 clientes.
 Embalagem e classificação de produtos conforme requisitos legais e necessidade.
 # BING MAPS
 ![4](https://user-images.githubusercontent.com/128760874/232805329-dd67400e-2e44-444c-9b96-a7aefeac1a2f.jpg)
+
 Quantidade de entregas realizadas.
 # INCOTERMS
-![7](https://user-images.githubusercontent.com/128760874/232806105-ea105df9-c211-42b4-88f3-b630ff9ca60f.jpg)
+!![9](https://user-images.githubusercontent.com/128760874/232808047-7dafffe7-34ae-42ca-8dd8-6a948e7083dd.jpg)
+
 FOB Cliente paga pelo frete, seguro. CIF Custos fornecedor.
 ## Planilhas analisadas
 !											
