@@ -17,14 +17,15 @@ Em desenvolvimento
 ![0](https://user-images.githubusercontent.com/128760874/232802301-0ca815c4-6eab-47a7-89a4-913701cadb6f.jpg)
 Definir as melhores rotas para entrega de produtos.
 # CLIENTES
-![1](https://user-images.githubusercontent.com/128760874/232803208-cd5a576a-df41-42d0-afc9-3fc45228f9f7.jpg)
+! ![10](https://user-images.githubusercontent.com/128760874/232809633-09a3e72f-d285-4f69-96c6-86099e018e34.jpg)
+
 Empresa com 51 clientes. 
 # Depósitos
 ![2](https://user-images.githubusercontent.com/128760874/232803956-b82d2e26-8736-4725-85ab-efa3b0d641a6.jpg)
 
 Embalagem e classificação de produtos conforme requisitos legais e necessidade.
 # BING MAPS
-![4](https://user-images.githubusercontent.com/128760874/232805329-dd67400e-2e44-444c-9b96-a7aefeac1a2f.jpg)
+!![11](https://user-images.githubusercontent.com/128760874/232809422-2267021b-2795-4557-983e-d414c8839f2d.jpg)
 
 Quantidade de entregas realizadas.
 # INCOTERMS
