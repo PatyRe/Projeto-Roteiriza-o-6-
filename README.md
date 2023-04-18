@@ -14,25 +14,31 @@ Em desenvolvimento
 - Entregas aceitas
 - Faturamento
 # ROTEIRIZAÇÃO
-![0](https://user-images.githubusercontent.com/128760874/232802301-0ca815c4-6eab-47a7-89a4-913701cadb6f.jpg)
+![Roteirização_de_entregas](https://user-images.githubusercontent.com/128760874/232890245-ae7fff56-6ac7-4a3d-9647-0c3367d411c2.jpeg)
 
 Definir as melhores rotas para entrega de produtos.
 # CLIENTES
-![10](https://user-images.githubusercontent.com/128760874/232809633-09a3e72f-d285-4f69-96c6-86099e018e34.jpg)
+![12](https://user-images.githubusercontent.com/128760874/232890338-380b81d8-f181-4b11-89b9-dc19179f45ba.jpg)
 
 Empresa com 51 clientes. 
-# Depósitos
+# DEPÓSITOS
 ![2](https://user-images.githubusercontent.com/128760874/232803956-b82d2e26-8736-4725-85ab-efa3b0d641a6.jpg)
 
-Embalagem e classificação de produtos conforme requisitos legais e necessidade.
-# BING MAPS
-!![11](https://user-images.githubusercontent.com/128760874/232809422-2267021b-2795-4557-983e-d414c8839f2d.jpg)
+Serviço que trata de armazenar diferentes tipos de mercadorias da melhor forma possível. Empresa possui três depósitos.
+# QUANTIDADE DE ENTREGAS REALIZADAS
+Analise de rotas e custos.
 
 Quantidade de entregas realizadas.
 # INCOTERMS
-!![9](https://user-images.githubusercontent.com/128760874/232808047-7dafffe7-34ae-42ca-8dd8-6a948e7083dd.jpg)
+![9](https://user-images.githubusercontent.com/128760874/232808047-7dafffe7-34ae-42ca-8dd8-6a948e7083dd.jpg)
 
 FOB Cliente paga pelo frete, seguro. CIF Custos fornecedor.
+# VENDAS E DEVOLUÇÃO
+Custos sob devolução de produtos.
+# ENTREGAS ACEITAS
+Custo de entregas.
+# FATURAMENTO
+Analise de faturamento referente a pedidos. 
 ## Planilhas analisadas
 !											
 	MUN	CO.Cliente	QTD DE ENTREGAS P/ CLIENTE	entegas FOB	entregas CIF 	VD P/ CLIENTE	DV P/ CLIENTE	CUSTO P/CLIENTE	QUANT DV P/CLIENTE	QUANT. VD P/ CLIENTE	QUANT. DE ENTREGAS SEM DV
