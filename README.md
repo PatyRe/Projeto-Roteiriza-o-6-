@@ -15,9 +15,10 @@ Em desenvolvimento
 - Faturamento
 # ROTEIRIZAÇÃO
 ![0](https://user-images.githubusercontent.com/128760874/232802301-0ca815c4-6eab-47a7-89a4-913701cadb6f.jpg)
+
 Definir as melhores rotas para entrega de produtos.
 # CLIENTES
-! ![10](https://user-images.githubusercontent.com/128760874/232809633-09a3e72f-d285-4f69-96c6-86099e018e34.jpg)
+![10](https://user-images.githubusercontent.com/128760874/232809633-09a3e72f-d285-4f69-96c6-86099e018e34.jpg)
 
 Empresa com 51 clientes. 
 # Depósitos
