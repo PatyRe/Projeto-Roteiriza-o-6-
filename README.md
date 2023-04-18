@@ -5,21 +5,29 @@ Em desenvolvimento
 # Integrantes:
 ![image](https://user-images.githubusercontent.com/128760874/231226070-50387781-39bf-4e9f-a5a7-0c20f392c373.png)
 ## Índice
-- Introdução Sprinter 1
-- Objetivo
-- Metodologia
-- Captação de dados (arquivo CSV)
-- Análise qualitativa de dados referente: Fábrica, Clientes, Cidades, Incoterms, Frete e Produtos.
-- Quantidade de produtos transportados: Mês e Ano.
-- Entregas e Devolução: Frete FOB e CIF.
-- Demanda: Anual, Cliente e Fábrica.
-- Tecnologia usada: Jira Atlassian e Dashboard.
-# Introdução Sprint 1
-O presente projeto atendendo interesse do cliente interno de um dashboard, no qual permita avaliar o desempenho das rotas com base em: origem-destino-custo, buscando avaliar a produtividade de cada uma das plantas. O cliente também demonstrou interesse em avaliar a quilometragem rodada para atendimento de cada cliente, podendo identificar possíveis pontos de otimização de rotas futuras. A equipe analisou todo cenário qualitativo referente aos dados informados pelo cliente, a princípio atendendo interesse do mesmo, seguido de um protótipo de dashboard para análise dos custos. Para a análise algumas informações foram solicitadas pelo cliente, para dar segmento, dentre elas: coordenadas da fábrica e custo por km, onde apenas as coordenadas foram passadas. Ao analisar algumas planilhas foi constatados alguns erros nos dados, onde as falhas foram mantidas. Cliente também informou o significado em dúvida do que se tratava a siga (P12) e (P24), sendo 12 e 24 pallets. Com base nestas informações o Backlog do produto seguiu um roteiro: conforme segue índice acima. A equipe verificou alguns custos com diferença altíssima e colocaram várias hipótese possíveis, lembrando a falta de alguns dados complementares.
-# Objetivo
-O objetivo geral deste projeto é atender interesse do cliente e expor as análises realizadas conforme interesse. 
-# Metodologia
-A metodologia utilizada a princípio, ferramenta Excel com base em funções, Jira para dimensionamento de tarefas e Dashboard para demonstrar dados consultados. 
+- Roteirização
+- Clientes
+- Depósitos
+- Quantidade entregas realizadas
+- Incoterms FOB e CIF
+- Vendas e Devolução
+- Entregas aceitas
+- Faturamento
+# ROTEIRIZAÇÃO
+![0](https://user-images.githubusercontent.com/128760874/232802301-0ca815c4-6eab-47a7-89a4-913701cadb6f.jpg)
+Definir as melhores rotas para entrega de produtos.
+# CLIENTES
+![1](https://user-images.githubusercontent.com/128760874/232803208-cd5a576a-df41-42d0-afc9-3fc45228f9f7.jpg)
+Empresa com 51 clientes. 
+# Depósitos
+![2](https://user-images.githubusercontent.com/128760874/232803956-b82d2e26-8736-4725-85ab-efa3b0d641a6.jpg)
+Embalagem e classificação de produtos conforme requisitos legais e necessidade.
+# BING MAPS
+![4](https://user-images.githubusercontent.com/128760874/232805329-dd67400e-2e44-444c-9b96-a7aefeac1a2f.jpg)
+Quantidade de entregas realizadas.
+# INCOTERMS
+![7](https://user-images.githubusercontent.com/128760874/232806105-ea105df9-c211-42b4-88f3-b630ff9ca60f.jpg)
+FOB Cliente paga pelo frete, seguro. CIF Custos fornecedor.
 ## Planilhas analisadas
 !											
 	MUN	CO.Cliente	QTD DE ENTREGAS P/ CLIENTE	entegas FOB	entregas CIF 	VD P/ CLIENTE	DV P/ CLIENTE	CUSTO P/CLIENTE	QUANT DV P/CLIENTE	QUANT. VD P/ CLIENTE	QUANT. DE ENTREGAS SEM DV
