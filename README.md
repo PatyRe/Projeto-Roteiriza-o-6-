@@ -17,6 +17,7 @@ Dados analisado conforme demanda de fábrica e clientes.
 ![image](https://user-images.githubusercontent.com/128760874/233355275-3ba7f2a1-bd2f-40c0-83d4-c81131228e71.png)
 # VRP SOLVER
 ![image](https://user-images.githubusercontent.com/128760874/233357821-238e8d58-051d-4bf0-88a6-7ffb3d34982f.png)
-
+# DASHBOARD 1
+![image](https://user-images.githubusercontent.com/128760874/233358158-2834d001-0181-4f73-bba5-31ca5880ee62.png)
 
 
