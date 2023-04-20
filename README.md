@@ -14,7 +14,7 @@ Em desenvolvimento
 - Entregas aceitas
 - Faturamento
 # ROTEIRIZAÇÃO
-![Roteirização_de_entregas](https://user-images.githubusercontent.com/128760874/232890245-ae7fff56-6ac7-4a3d-9647-0c3367d411c2.jpeg)
+![image](https://user-images.githubusercontent.com/128760874/233353930-638ba799-114e-4f74-991d-7f094f14d028.png)
 
 Definir as melhores rotas para entrega de produtos.
 # CLIENTES
