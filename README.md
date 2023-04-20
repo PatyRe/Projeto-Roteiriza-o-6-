@@ -12,5 +12,9 @@ Definir as melhores rotas para entrega de produtos.
 # ANÁLISE DE DADOS
 ![image](https://user-images.githubusercontent.com/128760874/233354733-c81e816b-ed88-46a4-bb04-12be9ffc8f5a.png)
 
+Dados analisado conforme demanda de fábrica e clientes.
+# ERROS ENCONTRADOS
+![image](https://user-images.githubusercontent.com/128760874/233355275-3ba7f2a1-bd2f-40c0-83d4-c81131228e71.png)
+
 
 
