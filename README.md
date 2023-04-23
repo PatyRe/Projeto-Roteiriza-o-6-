@@ -21,7 +21,7 @@ Dados analisado conforme demanda de fábrica e clientes.
 ![image](https://user-images.githubusercontent.com/128760874/233358158-2834d001-0181-4f73-bba5-31ca5880ee62.png)
 # DASHBOARD 2
 ![image](https://user-images.githubusercontent.com/128760874/233360688-9667750c-0fa5-4003-b1a4-d07c60260aac.png)
-# RELATÓRIO
-![image](https://user-images.githubusercontent.com/128760874/233360265-ed21c258-64cb-4eb8-b300-9707160a0775.png)
+# FERRAMENTAS
+![image](https://user-images.githubusercontent.com/128760874/233848730-73a15437-41c8-45be-8fa1-bfd1cda6fd50.png)
 
 
