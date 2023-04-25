@@ -20,10 +20,10 @@ Em desenvolvimento
 ## Calculo distância.
 ![image](https://user-images.githubusercontent.com/128760874/233357821-238e8d58-051d-4bf0-88a6-7ffb3d34982f.png)
 # DASHBOARD 1
-## Analise dos dados conforme planilha cliente.
+## Análise dos dados conforme planilha cliente.
 ![image](https://user-images.githubusercontent.com/128760874/233358158-2834d001-0181-4f73-bba5-31ca5880ee62.png)
 # DASHBOARD 2
-## Analise dos dados conforme planilha.
+## Análise dos dados conforme planilha.
 ![image](https://user-images.githubusercontent.com/128760874/233360688-9667750c-0fa5-4003-b1a4-d07c60260aac.png)
 # FERRAMENTAS UTILIZADAS.
 ## Jira Software e Github
