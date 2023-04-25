@@ -6,13 +6,12 @@ Em desenvolvimento
 ![image](https://user-images.githubusercontent.com/128760874/231226070-50387781-39bf-4e9f-a5a7-0c20f392c373.png)
 # ROTEIRIZAÇÃO
 - [x] Avaliar desempenho das rotas com base:
-- Origem
-- Destino
+- Origem (Fábricas)
+- Destino (Clientes) 
 - Custo 
 - [x] Evolução mensal custos. 
 - [x] Identificar rotas mais custosas.
 - [x] Produtividade das plantas.
-![image](https://user-images.githubusercontent.com/128760874/233354733-c81e816b-ed88-46a4-bb04-12be9ffc8f5a.png)
 
 # ERROS ENCONTRADOS
 ## Inconsistência de dados, cobrança custo FOB.
