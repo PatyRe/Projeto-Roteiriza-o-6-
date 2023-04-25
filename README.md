@@ -29,5 +29,13 @@ Em desenvolvimento
 ## Jira Software e Github
 ![image](https://user-images.githubusercontent.com/128760874/233848730-73a15437-41c8-45be-8fa1-bfd1cda6fd50.png)
 ![image](https://user-images.githubusercontent.com/128760874/234140754-f6a9a6b3-8cde-4032-83a5-848f4063286d.png)
- 
+ # SPRINT 2
+ ## DASHBOARD DISTÂNCIA IDA E VOLTA
+![Captura de tela 2023-04-25 191705](https://user-images.githubusercontent.com/128760874/234417351-3f5f6cac-15d1-471f-8cc9-bcb5a1515098.png)
+## DASHBOARD IDA
+![ida](https://user-images.githubusercontent.com/128760874/234417569-7f5eacdb-6f03-4343-aedc-c919607ee0f3.png)
+## DASHBOARD VOLTA
+![volta](https://user-images.githubusercontent.com/128760874/234417901-13035618-259a-4cc0-b653-f2f7a757a552.png)
+
+
 
