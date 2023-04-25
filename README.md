@@ -1,16 +1,11 @@
-# Projeto-Roteirização-6S
+# Projeto-6 SEMESTRE
 Em desenvolvimento
-# Gigalog Consultoria
+# GIGALOG CONSULTORIA
 ![Captura de tela 2023-04-05 111953](https://user-images.githubusercontent.com/128760874/231186365-5281e35b-86e7-443b-8e05-a67aecf7fc8e.png)
-# Integrantes:
+# INTEGRANTES:
 ![image](https://user-images.githubusercontent.com/128760874/231226070-50387781-39bf-4e9f-a5a7-0c20f392c373.png)
-
 # ROTEIRIZAÇÃO
-## Avaliar desempenho das rotas com base: origem-destino-custo.
-![image](https://user-images.githubusercontent.com/128760874/234145974-9e0483a7-27ea-4c89-89f8-c1ade487c4f1.png)
-
-# ANÁLISE DE DADOS
-## Avaliar a evolução mensal dos custos, identificar rotas mais custosas e a produtividade das plantas.
+- [x] Avaliar desempenho das rotas com base: origem-destino-custo e a evolução mensal dos custos, identificar rotas mais custosas e a produtividade das plantas.
 ![image](https://user-images.githubusercontent.com/128760874/233354733-c81e816b-ed88-46a4-bb04-12be9ffc8f5a.png)
 
 # ERROS ENCONTRADOS
