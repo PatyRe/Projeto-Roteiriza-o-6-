@@ -7,7 +7,7 @@ Em desenvolvimento
 
 # ROTEIRIZAÇÃO
 ## Avaliar desempenho das rotas com base: origem-destino-custo.
-![image](https://user-images.githubusercontent.com/128760874/233353930-638ba799-114e-4f74-991d-7f094f14d028.png)
+![image](https://user-images.githubusercontent.com/128760874/234145974-9e0483a7-27ea-4c89-89f8-c1ade487c4f1.png)
 
 # ANÁLISE DE DADOS
 ## Avaliar a evolução mensal dos custos, identificar rotas mais custosas e a produtividade das plantas.
