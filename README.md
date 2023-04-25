@@ -17,7 +17,7 @@ Em desenvolvimento
 ## Inconsistência de dados, cobrança custo FOB.
 ![image](https://user-images.githubusercontent.com/128760874/233355275-3ba7f2a1-bd2f-40c0-83d4-c81131228e71.png)
 # VRP SOLVER
-## Calculo distância.
+## Cálculo distância.
 ![image](https://user-images.githubusercontent.com/128760874/233357821-238e8d58-051d-4bf0-88a6-7ffb3d34982f.png)
 # DASHBOARD 1
 ## Análise dos dados conforme planilha cliente.
