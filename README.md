@@ -39,11 +39,12 @@ Em desenvolvimento
 - [x] Haversine
 - Equação usada em navegação, fornece distância entre dois pontos de uma esfera a partir de suas latitudes e longitudes. 
  ## DASHBOARD SPRINT 2
- - [x] Análise de rota:
- - Ida e volta
- - Ida
- - Volta
-![Captura de tela 2023-04-25 191705](https://user-images.githubusercontent.com/128760874/234417351-3f5f6cac-15d1-471f-8cc9-bcb5a1515098.png)
+ - [x] Média de Km ida e volta
+ - [x] Entregas 
+ - [x] Média de custo/km
+ - [x] Custo
+ - [x] Quantidade Transportada
+ - [x] Quantidade FOB com custo     
 
 
 
