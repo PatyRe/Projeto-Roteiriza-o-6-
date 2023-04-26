@@ -30,12 +30,13 @@ Em desenvolvimento
 # DASHBOARD SPRINT 1
 - Gestão visual que apresentou de forma clara e objetiva a evolução dos resultados encontrados nas planilhas em análise. 
 # FERRAMENTAS UTILIZADAS
-- [x] Jira Software Link: https://patyre.atlassian.net/jira/software/projects/GC/boards/2
+- [x] Jira Software 
 - Atribuição de tarefas
 - Backlog do produto
 - Roteiro de atividades
 - Painel de processo das atividades
 - Epic
+Link: https://patyre.atlassian.net/jira/software/projects/GC/boards/2
 - [x] Haversine
 - Equação usada em navegação, fornece distância entre dois pontos de uma esfera a partir de suas latitudes e longitudes. 
  ## DASHBOARD SPRINT 2
