@@ -1,4 +1,4 @@
-# Projeto-6 SEMESTRE
+# Projeto-6 SEMESTRE LOG
 Em desenvolvimento
 # GIGALOG CONSULTORIA
 ![Captura de tela 2023-04-05 111953](https://user-images.githubusercontent.com/128760874/231186365-5281e35b-86e7-443b-8e05-a67aecf7fc8e.png)
@@ -8,16 +8,18 @@ Em desenvolvimento
 - [x] Avaliar desempenho das rotas com base:
 - Origem (Fábricas)
 - Destino (Clientes) 
-- Custo 
-- [x] Evolução mensal custos. 
+- Custo (Quantidade entregas por clientes; Entregas FOB; Entregas CIF)
+- [x] Evolução mensal dos custos. 
 - [x] Identificar rotas mais custosas.
 - [x] Produtividade das plantas.
-
 # ERROS ENCONTRADOS
-## Inconsistência de dados, cobrança custo FOB.
-![image](https://user-images.githubusercontent.com/128760874/233355275-3ba7f2a1-bd2f-40c0-83d4-c81131228e71.png)
+- [x] Inconsistência:
+- Dados
+- Cobrança custo FOB.
 # VRP SOLVER
-## Cálculo distância.
+- [X] Cálculo distância.
+- [x] Porcentagem desvio.
+- [x] Fator de curva. 
 ![image](https://user-images.githubusercontent.com/128760874/233357821-238e8d58-051d-4bf0-88a6-7ffb3d34982f.png)
 # DASHBOARD 1
 ## Análise dos dados conforme planilha cliente.Sprint 1
