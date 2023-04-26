@@ -57,6 +57,9 @@ Link: https://patyre.atlassian.net/jira/software/projects/GC/boards/2
  
  Link: https://app.powerbi.com/groups/me/reports/6161dc74-553f-4536-956a-d0b02f976c9e
 # DOCUMENTAÇÃO
+- [x] Ata de Reunião
+- [x] Relatório de Desenvolvimento
+
 
 
 
