@@ -44,7 +44,7 @@ Em desenvolvimento
 Link: https://patyre.atlassian.net/jira/software/projects/GC/boards/2
 - [x] Haversine
 - Definição: Equação usada em navegação, fornece distância entre dois pontos de uma esfera a partir de suas latitudes e longitudes. 
- ## DASHBOARD SPRINT 2
+ # DASHBOARD SPRINT 2
  - [x] Média de Km ida e volta
  - [x] Entregas 
  - [x] Média de custo/km
