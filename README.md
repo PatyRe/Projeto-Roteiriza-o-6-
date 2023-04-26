@@ -34,6 +34,7 @@ Em desenvolvimento
 - [x] Custo
 - [x] Quantidade transportadas 
 - [x] Valor frete  
+
 Link: https://app.powerbi.com/groups/me/reports/99b6977c-ff46-4aa5-bd5f-c68d77b827e6
 # FERRAMENTAS UTILIZADAS
 - [x] Jira Software 
