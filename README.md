@@ -28,7 +28,11 @@ Em desenvolvimento
 - [x] Porcentagem desvio.
 - [x] Fator de curva. 
 # DASHBOARD SPRINT 1
-- Gestão visual que apresentou de forma clara e objetiva a evolução dos resultados encontrados nas planilhas em análise. 
+- [x] Distância em Km
+- [x] Contagem de entregas
+- [x] Custo
+- [x] Quantidade transportadas 
+- [x] Valor frete   
 # FERRAMENTAS UTILIZADAS
 - [x] Jira Software 
 - Atribuição de tarefas
@@ -45,7 +49,7 @@ Link: https://patyre.atlassian.net/jira/software/projects/GC/boards/2
  - [x] Entregas 
  - [x] Média de custo/km
  - [x] Custo
- - [x] Quantidade Transportada
+ - [x] Quantidade transportada
  - [x] Quantidade FOB com custo     
 
 
