@@ -36,6 +36,7 @@ Em desenvolvimento
 - Roteiro de atividades
 - Painel de processo das atividades
 - Epic
+
 Link: https://patyre.atlassian.net/jira/software/projects/GC/boards/2
 - [x] Haversine
 - Equação usada em navegação, fornece distância entre dois pontos de uma esfera a partir de suas latitudes e longitudes. 
