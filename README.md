@@ -31,6 +31,7 @@ Em desenvolvimento
 - Gestão visual que apresentou de forma clara e objetiva a evolução dos resultados encontrados nas planilhas em análise. 
 # FERRAMENTAS UTILIZADAS
 - [x] Jira Software
+- https://patyre.atlassian.net/jira/software/projects/GC/boards/2
 - Atribuição de tarefas
 - Backlog do produto
 - Roteiro de atividades
