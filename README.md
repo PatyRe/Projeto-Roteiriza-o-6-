@@ -20,6 +20,7 @@ Em desenvolvimento
 - [X] Cálculo distância.
 - [x] Porcentagem desvio.
 - [x] Fator de curva. 
+
 ![image](https://user-images.githubusercontent.com/128760874/233357821-238e8d58-051d-4bf0-88a6-7ffb3d34982f.png)
 # DASHBOARD 1
 ## Análise dos dados conforme planilha cliente.Sprint 1
