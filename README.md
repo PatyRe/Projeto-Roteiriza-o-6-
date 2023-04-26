@@ -3,8 +3,7 @@ Em desenvolvimento
 # GIGALOG CONSULTORIA
 ![Captura de tela 2023-04-05 111953](https://user-images.githubusercontent.com/128760874/231186365-5281e35b-86e7-443b-8e05-a67aecf7fc8e.png)
 # INTEGRANTES:
-!![image](https://user-images.githubusercontent.com/128760874/234588678-9c92fd88-941e-4797-bc2b-3c9c2a2abc49.png)
-
+![1](https://user-images.githubusercontent.com/128760874/234589694-5da80001-bf29-400e-8a55-3d4eabfd7dac.png)
 # SUMÁRIO:
 - Roteirização
 - Erros encontrados
