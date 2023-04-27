@@ -1,5 +1,7 @@
 # Projeto-6 SEMESTRE LOG
-Em desenvolvimento
+## Projeto do curso tecnologo em Logística.
+Com o tema: Roteirização.
+Objetivo: Atender interesse do cliente em avaliar desempenho das rotas, custos e produtividade das plantas de sua empresa.
 # GIGALOG CONSULTORIA
 ![Captura de tela 2023-04-05 111953](https://user-images.githubusercontent.com/128760874/231186365-5281e35b-86e7-443b-8e05-a67aecf7fc8e.png)
 # INTEGRANTES:
