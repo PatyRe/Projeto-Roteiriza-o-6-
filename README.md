@@ -1,5 +1,5 @@
 # Projeto-6 SEMESTRE LOG
-## Projeto do curso tecnologo em Logística.
+## Curso tecnologo em Logística.
 Com o tema: Roteirização.
 Objetivo: Atender interesse do cliente em avaliar desempenho das rotas, custos e produtividade das plantas de sua empresa.
 # GIGALOG CONSULTORIA
