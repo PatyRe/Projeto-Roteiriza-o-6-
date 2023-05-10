@@ -12,8 +12,12 @@
 - Erros encontrados
 - VRP Solver
 - Dashboard Sprint 1
-- Ferramentas Utilizadas
 - Dashboard Sprint 2
+- Dashboard Sprint 3
+- Dashboard Sprint 4
+- Ferramentas Utilizadas
+- Documentação
+
 # ROTEIRIZAÇÃO
 - [x] Avaliar desempenho das rotas com base:
 - Origem (Fábricas)
