@@ -46,6 +46,8 @@ Link: https://app.powerbi.com/groups/me/reports/99b6977c-ff46-4aa5-bd5f-c68d77b8
  - [x] Custo
  - [x] Quantidade transportada
  - [x] Quantidade FOB com custo 
+ 
+ Link: https://app.powerbi.com/groups/me/reports/6161dc74-553f-4536-956a-d0b02f976c9e
  # DASHBOARD SPRINT 3
  - Atualização dos dados das sprints 1 e 2
  - Custo de quilômetro atualizados
@@ -53,8 +55,7 @@ Link: https://app.powerbi.com/groups/me/reports/99b6977c-ff46-4aa5-bd5f-c68d77b8
  # DASHBOARD SPRINT 4
  - Indicadores
  
- Link: https://app.powerbi.com/groups/me/reports/6161dc74-553f-4536-956a-d0b02f976c9e
-# FERRAMENTAS UTILIZADAS
+ # FERRAMENTAS UTILIZADAS
 - [x] Jira Software 
 - Atribuição de tarefas
 - Backlog do produto
