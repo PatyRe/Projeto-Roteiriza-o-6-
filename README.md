@@ -1,5 +1,5 @@
 # Projeto-6 SEMESTRE LOG
-## Curso tecnologo em Logística.
+## Curso tecnólogo em Logística.
 ### Tema: Roteirização.
 
 - Objetivo: Atender interesse do cliente em avaliar desempenho das rotas, custos e produtividade das plantas de sua empresa.
