@@ -39,17 +39,6 @@
 - [x] Valor frete  
 
 Link: https://app.powerbi.com/groups/me/reports/99b6977c-ff46-4aa5-bd5f-c68d77b827e6
-# FERRAMENTAS UTILIZADAS
-- [x] Jira Software 
-- Atribuição de tarefas
-- Backlog do produto
-- Roteiro de atividades
-- Painel de processo das atividades
-- Epic
-
-Link: https://patyre.atlassian.net/jira/software/projects/GC/boards/2
-- [x] Haversine
-- Definição: Equação usada em navegação, fornece distância entre dois pontos de uma esfera a partir de suas latitudes e longitudes. 
  # DASHBOARD SPRINT 2
  - [x] Média de Km ida e volta
  - [x] Entregas 
@@ -57,8 +46,24 @@ Link: https://patyre.atlassian.net/jira/software/projects/GC/boards/2
  - [x] Custo
  - [x] Quantidade transportada
  - [x] Quantidade FOB com custo 
+ # DASHBOARD SPRINT 3
+ - Atualização dos dados das sprints 1 e 2
+ - Custo de quilômetro atualizados
+ - Fator de eficiência
+ # DASHBOARD SPRINT 4
+ - Indicadores
  
  Link: https://app.powerbi.com/groups/me/reports/6161dc74-553f-4536-956a-d0b02f976c9e
+# FERRAMENTAS UTILIZADAS
+- [x] Jira Software 
+- Atribuição de tarefas
+- Backlog do produto
+- Roteiro de atividades
+- Painel de processo das atividades
+- Epic
+- Link: https://patyre.atlassian.net/jira/software/projects/GC/boards/2
+- [x] Haversine
+- Definição: Equação usada em navegação, fornece distância entre dois pontos de uma esfera a partir de suas latitudes e longitudes.
 # DOCUMENTAÇÃO
 - [x] Ata de Reunião
 - [x] Relatório de Desenvolvimento
