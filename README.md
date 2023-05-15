@@ -68,8 +68,7 @@ Link: https://app.powerbi.com/groups/me/reports/99b6977c-ff46-4aa5-bd5f-c68d77b8
 - Epic
 - Link: https://patyre.atlassian.net/jira/software/projects/GC/boards/2
 - [x] Haversine
-- Definição: Equação usada em navegação, fornece distância entre dois pontos de uma esfera a partir de suas latitudes e longitudes.
- DEA
+-  DEA
 # DOCUMENTAÇÃO
 - [x] Ata de Reunião
 - [x] Relatório de Desenvolvimento
