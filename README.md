@@ -53,9 +53,10 @@ Link: https://app.powerbi.com/groups/me/reports/99b6977c-ff46-4aa5-bd5f-c68d77b8
  
  Link: https://app.powerbi.com/groups/me/reports/6161dc74-553f-4536-956a-d0b02f976c9e
  # DASHBOARD SPRINT 3
- - Atualização dos dados das sprints 1 e 2
- - Custo de quilômetro atualizados
- - Fator de eficiência
+ - [x] Atualização dos dados das sprints 1 e 2
+ - [x] Custo de quilômetro atualizados
+ - [x] Fator de eficiência
+ 
  # DASHBOARD SPRINT 4
  - Indicadores
  
@@ -72,6 +73,7 @@ Link: https://app.powerbi.com/groups/me/reports/99b6977c-ff46-4aa5-bd5f-c68d77b8
 # DOCUMENTAÇÃO
 - [x] Ata de Reunião
 - [x] Relatório de Desenvolvimento
+- [x] Conceitos (Rota, Haversine, Indicadores, DEA) 
 
 
 
