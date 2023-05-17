@@ -18,7 +18,7 @@
 - Ferramentas Utilizadas
 - Documentação
 # ROTEIRIZAÇÃO 🚛
-- [x] Avaliar desempenho das rotas com base:
+- ✅ Avaliar desempenho das rotas com base:
 - Origem (Fábricas)
 - Destino (Clientes) 
 - Custo (Quantidade entregas por clientes; Entregas FOB; Entregas CIF)
