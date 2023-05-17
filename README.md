@@ -17,8 +17,7 @@
 - Dashboard Sprint 4
 - Ferramentas Utilizadas
 - Documentação
-
-🚚# ROTEIRIZAÇÃO
+# ROTEIRIZAÇÃO
 - [x] Avaliar desempenho das rotas com base:
 - Origem (Fábricas)
 - Destino (Clientes) 
@@ -26,7 +25,7 @@
 - [x] Evolução mensal dos custos. 
 - [x] Identificar rotas mais custosas.
 - [x] Produtividade das plantas.
-✖️# ERROS ENCONTRADOS
+# ERROS ENCONTRADOS
 - [x] Inconsistência:
 - Dados
 - Cobrança custo FOB.
