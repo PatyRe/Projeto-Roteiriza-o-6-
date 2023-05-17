@@ -33,6 +33,7 @@
 - ✅ Cálculo distância.
 - ✅ Porcentagem desvio.
 - ✅ Fator de curva. 
+
 ![vrp](https://user-images.githubusercontent.com/128760874/234572832-53f96087-3c20-409d-ba97-268d1a4a61b6.png)
 # DASHBOARD SPRINT 1
 - ✅ Distância em Km
