@@ -22,11 +22,11 @@
 - Origem (Fábricas)
 - Destino (Clientes) 
 - Custo (Quantidade entregas por clientes; Entregas FOB; Entregas CIF)
-✅ Evolução mensal dos custos. 
-✅ Identificar rotas mais custosas.
-✅ Produtividade das plantas.
+- ✅ Evolução mensal dos custos. 
+- ✅ Identificar rotas mais custosas.
+- ✅ Produtividade das plantas.
 # ERROS ENCONTRADOS ✖️
-✅ Inconsistência:
+- ✅ Inconsistência:
 - Dados
 - Cobrança custo FOB.
 # VRP SOLVER
