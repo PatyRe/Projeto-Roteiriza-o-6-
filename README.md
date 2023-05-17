@@ -30,37 +30,37 @@
 - Dados
 - Cobrança custo FOB.
 # VRP SOLVER
-- [X] Cálculo distância.
-- [x] Porcentagem desvio.
-- [x] Fator de curva. 
+- ✅ Cálculo distância.
+- ✅ Porcentagem desvio.
+- ✅ Fator de curva. 
 ![vrp](https://user-images.githubusercontent.com/128760874/234572832-53f96087-3c20-409d-ba97-268d1a4a61b6.png)
 # DASHBOARD SPRINT 1
-- [x] Distância em Km
-- [x] Contagem de entregas
-- [x] Custo
-- [x] Quantidade transportadas 
-- [x] Valor frete  
+- ✅ Distância em Km
+- ✅ Contagem de entregas
+- ✅ Custo
+- ✅ Quantidade transportadas 
+- ✅ Valor frete  
 
 Link: https://app.powerbi.com/groups/me/reports/99b6977c-ff46-4aa5-bd5f-c68d77b827e6
  # DASHBOARD SPRINT 2
- - [x] Média de Km ida e volta
- - [x] Entregas 
- - [x] Média de custo/km
- - [x] Custo
- - [x] Quantidade transportada
- - [x] Quantidade FOB com custo 
+ - ✅ Média de Km ida e volta
+ - ✅ Entregas 
+ - ✅ Média de custo/km
+ - ✅ Custo
+ - ✅ Quantidade transportada
+ - ✅ Quantidade FOB com custo 
  
  Link: https://app.powerbi.com/groups/me/reports/6161dc74-553f-4536-956a-d0b02f976c9e
  # DASHBOARD SPRINT 3
- - [x] Atualização dos dados das sprints 1 e 2
- - [x] Custo de quilômetro atualizados
- - [x] Fator de eficiência
+ - ✅ Atualização dos dados das sprints 1 e 2
+ - ✅ Custo de quilômetro atualizados
+ - ✅ Fator de eficiência
  
  # DASHBOARD SPRINT 4
  - Indicadores
  
  # FERRAMENTAS UTILIZADAS 🛠️
-- [x] Jira Software 
+- ✅ Jira Software 
 - Gráfico utilizado pela equipe Scrum para representar diariamente o progresso do trabalho em desenvolvimento, apresenta trabalho finalizado em comparação ao trabalho total planejado.
 
 ![Captura de tela 2023-05-17 191123](https://github.com/PatyRe/Projeto-Roteiriza-o-6-/assets/128760874/db9d377f-2543-4b77-801b-4d9aa72b4163)
@@ -71,13 +71,13 @@ Link: https://app.powerbi.com/groups/me/reports/99b6977c-ff46-4aa5-bd5f-c68d77b8
 - Painel de processo das atividades
 - Epic
 - Link: https://patyre.atlassian.net/jira/software/projects/GC/boards/2
-- [x] Haversine (Consultar arquivo Conceito)
-- [x] DEA (Consultar arquivo Conceito)
+- ✅ Haversine (Consultar arquivo Conceito)
+- ✅ DEA (Consultar arquivo Conceito)
 
 # DOCUMENTAÇÃO
-- [x] Ata de Reunião
-- [x] Relatório de Desenvolvimento
-- [x] Conceitos (Rota, Haversine, Indicadores, DEA) 
+- ✅ Ata de Reunião
+- ✅ Relatório de Desenvolvimento
+- ✅ Conceitos (Rota, Haversine, Indicadores, DEA) 
 
 
 
