@@ -17,7 +17,7 @@
 - Dashboard Sprint 4
 - Ferramentas Utilizadas
 - Documentação
-# ROTEIRIZAÇÃO
+# ROTEIRIZAÇÃO 🚛
 - [x] Avaliar desempenho das rotas com base:
 - Origem (Fábricas)
 - Destino (Clientes) 
@@ -25,7 +25,7 @@
 - [x] Evolução mensal dos custos. 
 - [x] Identificar rotas mais custosas.
 - [x] Produtividade das plantas.
-# ERROS ENCONTRADOS
+# ERROS ENCONTRADOS ✖️
 - [x] Inconsistência:
 - Dados
 - Cobrança custo FOB.
@@ -59,7 +59,7 @@ Link: https://app.powerbi.com/groups/me/reports/99b6977c-ff46-4aa5-bd5f-c68d77b8
  # DASHBOARD SPRINT 4
  - Indicadores
  
- # FERRAMENTAS UTILIZADAS
+ # FERRAMENTAS UTILIZADAS 🛠️
 - [x] Jira Software 
 - Gráfico utilizado pela equipe Scrum para representar diariamente o progresso do trabalho em desenvolvimento, apresenta trabalho finalizado em comparação ao trabalho total planejado.
 
