@@ -72,8 +72,9 @@ Link: https://app.powerbi.com/groups/me/reports/99b6977c-ff46-4aa5-bd5f-c68d77b8
 - Painel de processo das atividades
 - Epic
 - Link: https://patyre.atlassian.net/jira/software/projects/GC/boards/2
-- [x] Haversine
-- [x] DEA
+- [x] Haversine (Consultar arquivo Conceito)
+- [x] DEA (Consultar arquivo Conceito)
+
 # DOCUMENTAÇÃO
 - [x] Ata de Reunião
 - [x] Relatório de Desenvolvimento
