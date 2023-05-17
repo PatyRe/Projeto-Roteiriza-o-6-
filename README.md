@@ -18,15 +18,15 @@
 - Ferramentas Utilizadas
 - Documentação
 # ROTEIRIZAÇÃO 🚛
-- ✅ Avaliar desempenho das rotas com base:
+✅ Avaliar desempenho das rotas com base:
 - Origem (Fábricas)
 - Destino (Clientes) 
 - Custo (Quantidade entregas por clientes; Entregas FOB; Entregas CIF)
-- [x] Evolução mensal dos custos. 
-- [x] Identificar rotas mais custosas.
-- [x] Produtividade das plantas.
+✅ Evolução mensal dos custos. 
+✅ Identificar rotas mais custosas.
+✅ Produtividade das plantas.
 # ERROS ENCONTRADOS ✖️
-- [x] Inconsistência:
+✅ Inconsistência:
 - Dados
 - Cobrança custo FOB.
 # VRP SOLVER
