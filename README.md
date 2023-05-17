@@ -62,10 +62,6 @@ Link: https://app.powerbi.com/groups/me/reports/99b6977c-ff46-4aa5-bd5f-c68d77b8
  
  # FERRAMENTAS UTILIZADAS 🛠️
 - ✅ Jira Software 
-- Gráfico utilizado pela equipe Scrum para representar diariamente o progresso do trabalho em desenvolvimento, apresenta trabalho finalizado em comparação ao trabalho total planejado.
-
-![Captura de tela 2023-05-17 191123](https://github.com/PatyRe/Projeto-Roteiriza-o-6-/assets/128760874/db9d377f-2543-4b77-801b-4d9aa72b4163)
-
 - Atribuição de tarefas
 - Backlog do produto
 - Roteiro de atividades
@@ -74,6 +70,10 @@ Link: https://app.powerbi.com/groups/me/reports/99b6977c-ff46-4aa5-bd5f-c68d77b8
 - Link: https://patyre.atlassian.net/jira/software/projects/GC/boards/2
 - ✅ Haversine (Consultar arquivo Conceito)
 - ✅ DEA (Consultar arquivo Conceito)
+- ✅ BURNDOWN 
+- Gráfico utilizado pela equipe Scrum para representar diariamente o progresso do trabalho em desenvolvimento, apresenta trabalho finalizado em comparação ao trabalho total planejado.
+ 
+![Captura de tela 2023-05-17 191123](https://github.com/PatyRe/Projeto-Roteiriza-o-6-/assets/128760874/db9d377f-2543-4b77-801b-4d9aa72b4163)
 
 # DOCUMENTAÇÃO
 - ✅ Ata de Reunião
