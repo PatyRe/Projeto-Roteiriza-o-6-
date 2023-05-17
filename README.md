@@ -62,7 +62,7 @@ Link: https://app.powerbi.com/groups/me/reports/99b6977c-ff46-4aa5-bd5f-c68d77b8
  
  # FERRAMENTAS UTILIZADAS
 - [x] Jira Software 
-! [Captura de tela 2023-05-17 191123](https://github.com/PatyRe/Projeto-Roteiriza-o-6-/assets/128760874/9d3b0524-59b3-4ed8-a76b-21524a8f6407)
+! ![Captura de tela 2023-05-17 191123](https://github.com/PatyRe/Projeto-Roteiriza-o-6-/assets/128760874/db9d377f-2543-4b77-801b-4d9aa72b4163)
 
 - Atribuição de tarefas
 - Backlog do produto
