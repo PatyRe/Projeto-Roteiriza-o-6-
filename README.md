@@ -2,7 +2,8 @@
 ## Curso tecnólogo em Logística.
 ### Tema: Roteirização.
 
-- Objetivo: Atender interesse do cliente em avaliar desempenho das rotas, custos e produtividade das plantas de sua empresa.
+# OBJETIVO: 
+- O projeto tem como objetivo realizar uma análise conforme interesse do cliente em identificar qual a situação atual de sua empresa. Verificar rotas, custos, incoterms e projeções futuras. Analisar inconsistências nos dados e propor melhor eficiência. Utilizando ferramentas tecnológicas através do Jira Software, GitHub que organiza as tarefas para melhor desempenho da equipe e o Power BI que entregará o produto ao cliente, através de gráficos demonstrando a real posição de sua empresa.
 # GIGALOG CONSULTORIA
 ![Captura de tela 2023-04-05 111953](https://user-images.githubusercontent.com/128760874/231186365-5281e35b-86e7-443b-8e05-a67aecf7fc8e.png)
 # INTEGRANTES:
