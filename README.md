@@ -59,10 +59,12 @@ Link: https://app.powerbi.com/groups/me/reports/99b6977c-ff46-4aa5-bd5f-c68d77b8
  - ✅ Atualização dos dados das sprints 1 e 2
  - ✅ Custo de quilômetro atualizados
  - ✅ Fator de eficiência
+ Link: https://app.powerbi.com/groups/me/reports/02754565-aac0-4bd8-9822-6468c4eb4901/ReportSectione9b08669972aadea92c3?action=OpenReport&pbi_source=ChatInTeams
  
  # DASHBOARD SPRINT 4
  - ✅ Indicadores
  - ✅ Atualização Dados
+ Link:https://app.powerbi.com/groups/me/reports/1ab41a4b-87e0-4c05-bd93-4a206a4a0b53/ReportSection7c12be04e8db672d3911?action=OpenReport&pbi_source=ChatInTeams
  
  # FERRAMENTAS UTILIZADAS 🛠️
 - ✅ Jira Software 
