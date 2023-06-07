@@ -2,7 +2,7 @@
 ## Curso tecnólogo em Logística.
 ### Tema: Roteirização.
 
-# OBJETIVO: 
+# OBJETIVO 
 - O projeto tem como objetivo realizar uma análise conforme interesse do cliente em identificar qual a situação atual de sua empresa. Verificar rotas, custos, incoterms e projeções futuras. Analisar inconsistências nos dados e propor melhor eficiência. Utilizando ferramentas tecnológicas através do Jira Software, GitHub que organiza as tarefas para melhor desempenho da equipe e o Power BI que entregará o produto ao cliente, através de gráficos demonstrando a real posição de sua empresa.
 # EMPRESA
 - A Gigalog é uma empresa de consultoria, fundada por uma equipe de cinco profissionais com experiência logística. A empresa utiliza a metodologia "Scrum" visando realizar os trabalhos a partir de pequenos ciclos de atividades dentro de um profeto. A equipe utiliza ferramentas tecnológicas e conhecimentos avançados para ampliar as análises solicitadas pelos seus clientes. A Gigalog é especializada em análise de custos, rotas e indicadores financeiros. 
