@@ -83,9 +83,9 @@ Link: https://app.powerbi.com/groups/me/reports/99b6977c-ff46-4aa5-bd5f-c68d77b8
 
 ![Captura de tela 2023-05-17 191123](https://github.com/PatyRe/Projeto-Roteiriza-o-6-/assets/128760874/db9d377f-2543-4b77-801b-4d9aa72b4163)
 
-![![Jira-Logo](https://github.com/PatyRe/Projeto-Roteiriza-o-6-/assets/128760874/daf9ea63-de09-4c3e-9736-455207fbf1d3)
-! [![bi](https://github.com/PatyRe/Projeto-Roteiriza-o-6-/assets/128760874/3bebcff0-b5e1-4aee-b226-6c2ab418f826)
-! [<img width="1767" alt="RStudio-Logo-Flat" src="https://github.com/PatyRe/Projeto-Roteiriza-o-6-/assets/128760874/33cfbd78-a7a0-4da0-966e-eb410a7113c3">
+![![Jira-Logo](https://github.com/PatyRe/Projeto-Roteiriza-o-6-/assets/128760874/daf9ea63-de09-4c3e-9736-455207fbf1d3)]
+![![bi](https://github.com/PatyRe/Projeto-Roteiriza-o-6-/assets/128760874/3bebcff0-b5e1-4aee-b226-6c2ab418f826)]
+![<img width="1767" alt="RStudio-Logo-Flat" src="https://github.com/PatyRe/Projeto-Roteiriza-o-6-/assets/128760874/33cfbd78-a7a0-4da0-966e-eb410a7113c3">]
 
 
 # DOCUMENTAÇÃO
