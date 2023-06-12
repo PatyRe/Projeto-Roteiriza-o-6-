@@ -65,6 +65,12 @@ Link: https://app.powerbi.com/groups/me/reports/99b6977c-ff46-4aa5-bd5f-c68d77b8
  - ✅ Indicadores
  - ✅ Atualização Dados
  
+
+https://github.com/PatyRe/Projeto-Roteiriza-o-6-/assets/128760874/a9a79115-d751-4561-a1b1-2d8f10311072
+
+
+
+ 
  Link:https://app.powerbi.com/groups/me/reports/1ab41a4b-87e0-4c05-bd93-4a206a4a0b53/ReportSection7c12be04e8db672d3911?action=OpenReport&pbi_source=ChatInTeams
  
  # FERRAMENTAS UTILIZADAS 🛠️
