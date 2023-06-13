@@ -10,6 +10,11 @@
 ![Captura de tela 2023-04-05 111953](https://user-images.githubusercontent.com/128760874/231186365-5281e35b-86e7-443b-8e05-a67aecf7fc8e.png)
 # INTEGRANTES:
 ![1](https://user-images.githubusercontent.com/128760874/234589694-5da80001-bf29-400e-8a55-3d4eabfd7dac.png)
+# LINKEDIN EQUIPE:
+https://www.linkedin.com/in/andr%C3%A9-diniz-81540112a
+https://www.linkedin.com/in/marcos-jacometi-de-paula-377b39244
+https://www.linkedin.com/in/patr%C3%ADcia-regina-pereira-de-lima-37322a219
+https://www.linkedin.com/in/pedro-henrique-04668b191
 # SUMÁRIO:
 - Roteirização
 - Erros encontrados
