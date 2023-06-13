@@ -64,6 +64,7 @@ Link: https://app.powerbi.com/groups/me/reports/99b6977c-ff46-4aa5-bd5f-c68d77b8
  # DASHBOARD SPRINT 4
  - ✅ Indicadores
  - ✅ Atualização Dados
+ ![Dashboard 4](https://github.com/PatyRe/Projeto-Roteiriza-o-6-/assets/128760874/ba45b030-e21c-4fbe-98d9-c0b67c9b8256)
  
 
 
