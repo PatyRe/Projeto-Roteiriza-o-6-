@@ -96,6 +96,8 @@ Link: https://app.powerbi.com/groups/me/reports/99b6977c-ff46-4aa5-bd5f-c68d77b8
 
 ![Captura de tela 2023-05-17 191123](https://github.com/PatyRe/Projeto-Roteiriza-o-6-/assets/128760874/db9d377f-2543-4b77-801b-4d9aa72b4163)
 
+! ![image](https://github.com/PatyRe/Projeto-Roteiriza-o-6-/assets/128760874/cc77e1fc-52dc-4665-b8af-2679e8c4fafa)
+
 
 # DOCUMENTAÇÃO
 - ✅ Ata de Reunião
