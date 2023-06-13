@@ -51,6 +51,7 @@
 - ✅ Custo
 - ✅ Quantidade transportadas 
 - ✅ Valor frete  
+
 -![Dashboard 1](https://github.com/PatyRe/Projeto-Roteiriza-o-6-/assets/128760874/9ba1996a-a451-489c-b946-d27cbc6f4554)
 
 
@@ -73,6 +74,7 @@ Link: https://app.powerbi.com/groups/me/reports/99b6977c-ff46-4aa5-bd5f-c68d77b8
  # SPRINT 4
  - ✅ Indicadores
  - ✅ Atualização Dados
+ - 
  ![Dashboard 4](https://github.com/PatyRe/Projeto-Roteiriza-o-6-/assets/128760874/ba45b030-e21c-4fbe-98d9-c0b67c9b8256)
  
 
@@ -96,7 +98,7 @@ Link: https://app.powerbi.com/groups/me/reports/99b6977c-ff46-4aa5-bd5f-c68d77b8
 
 ![Captura de tela 2023-05-17 191123](https://github.com/PatyRe/Projeto-Roteiriza-o-6-/assets/128760874/db9d377f-2543-4b77-801b-4d9aa72b4163)
 
-! ![image](https://github.com/PatyRe/Projeto-Roteiriza-o-6-/assets/128760874/cc77e1fc-52dc-4665-b8af-2679e8c4fafa)
+ ![image](https://github.com/PatyRe/Projeto-Roteiriza-o-6-/assets/128760874/cc77e1fc-52dc-4665-b8af-2679e8c4fafa)
 
 
 # DOCUMENTAÇÃO
