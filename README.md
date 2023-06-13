@@ -51,6 +51,8 @@
 - ✅ Custo
 - ✅ Quantidade transportadas 
 - ✅ Valor frete  
+-![Dashboard 1](https://github.com/PatyRe/Projeto-Roteiriza-o-6-/assets/128760874/9ba1996a-a451-489c-b946-d27cbc6f4554)
+
 
 Link: https://app.powerbi.com/groups/me/reports/99b6977c-ff46-4aa5-bd5f-c68d77b827e6
  # SPRINT 2
