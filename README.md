@@ -20,7 +20,6 @@
 # SUMÁRIO:
 - Roteirização
 - Erros encontrados
-- VRP Solver
 - Sprint 1
 - Sprint 2
 - Sprint 3
@@ -39,12 +38,7 @@
 - ✅ Inconsistência:
 - Dados
 - Cobrança custo FOB.
-# VRP SOLVER
-- ✅ Cálculo distância.
-- ✅ Porcentagem desvio.
-- ✅ Fator de curva. 
 
-![vrp](https://user-images.githubusercontent.com/128760874/234572832-53f96087-3c20-409d-ba97-268d1a4a61b6.png)
 # SPRINT 1
 - ✅ Distância em Km
 - ✅ Contagem de entregas
@@ -52,10 +46,11 @@
 - ✅ Quantidade transportadas 
 - ✅ Valor frete  
 
--![Dashboard 1](https://github.com/PatyRe/Projeto-Roteiriza-o-6-/assets/128760874/9ba1996a-a451-489c-b946-d27cbc6f4554)
-
-
 Link: https://app.powerbi.com/groups/me/reports/99b6977c-ff46-4aa5-bd5f-c68d77b827e6
+
+![Dashboard 1](https://github.com/PatyRe/Projeto-Roteiriza-o-6-/assets/128760874/9ba1996a-a451-489c-b946-d27cbc6f4554)
+
+
  # SPRINT 2
  - ✅ Média de Km ida e volta
  - ✅ Entregas 
@@ -75,11 +70,11 @@ Link: https://app.powerbi.com/groups/me/reports/99b6977c-ff46-4aa5-bd5f-c68d77b8
  # SPRINT 4
  - ✅ Indicadores
  - ✅ Atualização Dados
-  
+  Link:https://app.powerbi.com/groups/me/reports/1ab41a4b-87e0-4c05-bd93-4a206a4a0b53/ReportSection7c12be04e8db672d3911?action=OpenReport&pbi_source=ChatInTeams
+ 
  ![Dashboard 4](https://github.com/PatyRe/Projeto-Roteiriza-o-6-/assets/128760874/ba45b030-e21c-4fbe-98d9-c0b67c9b8256)
  
- Link:https://app.powerbi.com/groups/me/reports/1ab41a4b-87e0-4c05-bd93-4a206a4a0b53/ReportSection7c12be04e8db672d3911?action=OpenReport&pbi_source=ChatInTeams
- 
+
  # FERRAMENTAS UTILIZADAS 🛠️
 - ✅ Jira Software 
 - Atribuição de tarefas
