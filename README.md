@@ -78,9 +78,6 @@ Link: https://app.powerbi.com/groups/me/reports/99b6977c-ff46-4aa5-bd5f-c68d77b8
   
  ![Dashboard 4](https://github.com/PatyRe/Projeto-Roteiriza-o-6-/assets/128760874/ba45b030-e21c-4fbe-98d9-c0b67c9b8256)
  
-
-
- 
  Link:https://app.powerbi.com/groups/me/reports/1ab41a4b-87e0-4c05-bd93-4a206a4a0b53/ReportSection7c12be04e8db672d3911?action=OpenReport&pbi_source=ChatInTeams
  
  # FERRAMENTAS UTILIZADAS 🛠️
@@ -96,6 +93,11 @@ Link: https://app.powerbi.com/groups/me/reports/99b6977c-ff46-4aa5-bd5f-c68d77b8
 - ✅ RStudio
 - ✅ BURNDOWN DAS SPRINTS
 - ✅ Power BI
+- ✅ VRP SOLVER
+- Cálculo distância.
+- Porcentagem desvio.
+- Fator de curva. 
+![vrp](https://user-images.githubusercontent.com/128760874/234572832-53f96087-3c20-409d-ba97-268d1a4a61b6.png)
 
 ![Captura de tela 2023-05-17 191123](https://github.com/PatyRe/Projeto-Roteiriza-o-6-/assets/128760874/db9d377f-2543-4b77-801b-4d9aa72b4163)
 
@@ -108,7 +110,7 @@ Link: https://app.powerbi.com/groups/me/reports/99b6977c-ff46-4aa5-bd5f-c68d77b8
 - ✅ Conceitos (Rota, Haversine, Indicadores, DEA) 
 
 # EQUIPE FINAL
-![image](https://github.com/PatyRe/Projeto-Roteiriza-o-6-/assets/128760874/8e8fa57f-f9e2-459a-a378-01a1b6d90339)
+                ![image](https://github.com/PatyRe/Projeto-Roteiriza-o-6-/assets/128760874/8e8fa57f-f9e2-459a-a378-01a1b6d90339)
 
 
 
