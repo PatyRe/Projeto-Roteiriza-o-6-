@@ -77,6 +77,7 @@ Link: https://app.powerbi.com/groups/me/reports/99b6977c-ff46-4aa5-bd5f-c68d77b8
  
 
  # FERRAMENTAS UTILIZADAS 🛠️
+ # TECNOLOGIA DA INFORMAÇÃO E GESTÃO EM LOGÍSTICA
 - ✅ Jira Software 
 - Atribuição de tarefas
 - Backlog do produto
