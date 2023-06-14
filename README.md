@@ -25,6 +25,7 @@
 - Sprint 3
 - Sprint 4
 - Ferramentas Utilizadas
+- Tecnologia em gestão logística
 - Documentação
 # ROTEIRIZAÇÃO 🚛
 - ✅ Avaliar desempenho das rotas com base:
