@@ -110,7 +110,7 @@ Link: https://app.powerbi.com/groups/me/reports/99b6977c-ff46-4aa5-bd5f-c68d77b8
 - ✅ Conceitos (Rota, Haversine, Indicadores, DEA) 
 
 # EQUIPE FINAL
-                ![image](https://github.com/PatyRe/Projeto-Roteiriza-o-6-/assets/128760874/8e8fa57f-f9e2-459a-a378-01a1b6d90339)
+![image](https://github.com/PatyRe/Projeto-Roteiriza-o-6-/assets/128760874/8e8fa57f-f9e2-459a-a378-01a1b6d90339)
 
 
 
