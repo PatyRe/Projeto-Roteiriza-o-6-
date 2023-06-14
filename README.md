@@ -78,28 +78,33 @@ Link: https://app.powerbi.com/groups/me/reports/99b6977c-ff46-4aa5-bd5f-c68d77b8
 
  # FERRAMENTAS UTILIZADAS 🛠️
  # TECNOLOGIA DA INFORMAÇÃO E GESTÃO EM LOGÍSTICA
-- ✅ Jira Software 
+- ✅ JIRA SOFTWARE 
 - Atribuição de tarefas
 - Backlog do produto
 - Roteiro de atividades
 - Painel de processo das atividades
 - Epic
 - Link: https://patyre.atlassian.net/jira/software/projects/GC/boards/2
-- ✅ Haversine 
-- ✅ DEA 
-- ✅ RStudio
 - ✅ Power BI
+- ✅ HAVERSINE 
+- ✅ RStudio
+- ✅ GITHUB
+- ✅ DEA 
 - ✅ VRP SOLVER
 - Cálculo distância.
 - Porcentagem desvio.
 - Fator de curva. 
 ![vrp](https://user-images.githubusercontent.com/128760874/234572832-53f96087-3c20-409d-ba97-268d1a4a61b6.png)
 
-✅ BURNDOWN DAS SPRINTS
+- ✅ BURNDOWN DAS SPRINTS
 ![Captura de tela 2023-05-17 191123](https://github.com/PatyRe/Projeto-Roteiriza-o-6-/assets/128760874/db9d377f-2543-4b77-801b-4d9aa72b4163)
 
  ![image](https://github.com/PatyRe/Projeto-Roteiriza-o-6-/assets/128760874/cc77e1fc-52dc-4665-b8af-2679e8c4fafa)
 
+# TECNOLOGIA DE GESTÃO EM LOGÍSTICA
+- Otimização do planejamento;
+- Aumento da agilidade nas operações;
+- Satisfação do cliente.
 
 # DOCUMENTAÇÃO
 - ✅ Ata de Reunião
