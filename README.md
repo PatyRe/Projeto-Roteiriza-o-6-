@@ -1,6 +1,6 @@
 # Projeto-6 SEMESTRE LOG
 ## Curso tecnólogo em Logística.
-### Tema: Roteirização.
+### TEMA: ROTEIRIZAÇÃO
 
 # OBJETIVO 
 - O projeto tem como objetivo realizar uma análise conforme interesse do cliente em identificar qual a situação atual de sua empresa. Verificar rotas, custos, incoterms e projeções futuras. Analisar inconsistências nos dados e propor melhor eficiência. Utilizando ferramentas tecnológicas através do Jira Software, GitHub que organiza as tarefas para melhor desempenho da equipe e o Power BI que entregará o produto ao cliente, através de gráficos demonstrando a real posição de sua empresa.
@@ -91,7 +91,6 @@ Link: https://app.powerbi.com/groups/me/reports/99b6977c-ff46-4aa5-bd5f-c68d77b8
 - ✅ Haversine 
 - ✅ DEA 
 - ✅ RStudio
-- ✅ BURNDOWN DAS SPRINTS
 - ✅ Power BI
 - ✅ VRP SOLVER
 - Cálculo distância.
@@ -99,6 +98,7 @@ Link: https://app.powerbi.com/groups/me/reports/99b6977c-ff46-4aa5-bd5f-c68d77b8
 - Fator de curva. 
 ![vrp](https://user-images.githubusercontent.com/128760874/234572832-53f96087-3c20-409d-ba97-268d1a4a61b6.png)
 
+✅ BURNDOWN DAS SPRINTS
 ![Captura de tela 2023-05-17 191123](https://github.com/PatyRe/Projeto-Roteiriza-o-6-/assets/128760874/db9d377f-2543-4b77-801b-4d9aa72b4163)
 
  ![image](https://github.com/PatyRe/Projeto-Roteiriza-o-6-/assets/128760874/cc77e1fc-52dc-4665-b8af-2679e8c4fafa)
